@@ -57,6 +57,7 @@
 }
 .intro{
     color: #8F9EA5;
+    font-size: 20px;
 }
 .h2{
     margin-top: 0px;
@@ -66,4 +67,10 @@
     margin-top: 0px;
     margin-bottom: 0px;  
     color: #8F9EA5;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-bottom: 200px;
 }
